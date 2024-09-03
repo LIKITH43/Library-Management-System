@@ -1,11 +1,6 @@
 # Library-Management-System
 <hr>
 
-## About
-    
-<p> This project was created as part of the hiring test for Frappe. <a href='https://frappe.io/dev-hiring-test'>Dev Hiring Test for *FRAPPE*</a>
-    Boost library efficiency and streamline workflows with my Flask-built web application. Manage books and members with ease, automate fee calculations, and seamlessly integrate book data via Frappe API.</p><br>
-
 
 ## Technology Stack
 - *Backend*: Flask (Python)
